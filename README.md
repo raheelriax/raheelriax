@@ -1,17 +1,16 @@
-## Raheel Riaz - Full Stack JavaScript Developer 👨‍💻
-
 🚀 Welcome to the world of Raheel Riaz! 🌟 I'm a seasoned Full Stack JavaScript Developer who's been crafting digital masterpieces for more than half a decade. With a knack for system design and fluency in JavaScript and TypeScript, I've become a maestro in harmonizing technologies like Node.js, React, GraphQL, and REST. Ready to embark on a coding adventure? Join me, and together we'll engineer extraordinary software solutions! 🎉
 
-## 🔧 Technologies & Tools
+#### 🔧 Skills
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=green)
-![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=E10098)
-![](https://img.shields.io/badge/Tools-REST-informational?style=flat&logo=rest&logoColor=white&color=orange)
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-## 📈 GitHub Stats
+#### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=raheelriax&theme=transparent&hide_border=true&border_radius=8&type=png" alt="Raheel Riaz's GitHub Streak" />
@@ -20,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=raheelriax&show_icons=true&theme=radical" alt="Raheel Riaz's GitHub Stats" />
 </p>
 
-## 📫 Get in Touch
+#### 📫 Get in Touch
 
 Feel free to reach out to me if you have any questions, suggestions, or just want to chat about tech! You can find me on 
 
